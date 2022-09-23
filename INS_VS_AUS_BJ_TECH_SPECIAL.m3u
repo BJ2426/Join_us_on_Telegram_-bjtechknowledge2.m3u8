@@ -1,0 +1,31 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="@bjtechknowledge2" tvg-logo="" group-title="Join us on Telegram @bjtechknowledge2",@bjtechknowledge2
+https://t.me/bjtechknowledge2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS 501 HD " tvg-logo="" group-title="INDIA 🆚 AUSTRALIA ",FOX SPORTS 501 HD 
+https://s5.lucascd.com:8080/hls/fox501.m3u8?md5=Hf8kgzovgCdeZO3Fk8Z5Jw&expires=1663948089|referer=https://castfree.me/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS ENGLISH " tvg-logo="" group-title="INDIA 🆚 AUSTRALIA ",STAR SPORTS ENGLISH 
+http://31.172.87.20:2200/R-EX/T_SPORTS_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS HD 1 ENG" tvg-logo="" group-title="INDIA 🆚 AUSTRALIA ",STAR SPORTS HD 1 ENG
+http://31.172.87.20:2200/EX/starsports1hd-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS HD 1 HINDI" tvg-logo="" group-title="INDIA 🆚 AUSTRALIA ",STAR SPORTS HD 1 HINDI
+http://31.172.87.20:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS TAMIL " tvg-logo="" group-title="INDIA 🆚 AUSTRALIA ",STAR SPORTS TAMIL 
+http://31.172.87.20:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS CRICKET HD " tvg-logo="" group-title="INDIA 🆚 AUSTRALIA ",SUPER SPORTS CRICKET HD 
+http://31.172.87.20:2200/AFR-EX/SuperSport_Cricket_AZ_FHD-dstv/index.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WILLOW CRICKET HD " tvg-logo="" group-title="INDIA 🆚 AUSTRALIA ",WILLOW CRICKET HD 
+http://31.172.87.20:2200/R-EX/WILLOW_CRICKET_HD-in/tracks-v1a1/mono.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIVE LINK 1" tvg-logo="" group-title="LIVE EVENTS ",LIVE LINK 1
+https://3uog.short.gy/BJ_SPECIAL_LIVE_EVENTS.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIVE LINK 2" tvg-logo="" group-title="LIVE EVENTS ",LIVE LINK 2
+https://3uog.short.gy/Live_events.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS ENGLISH" tvg-logo="" group-title="LIVE EVENTS ",STAR SPORTS ENGLISH
+https://s8.merizaat.com:8080/hls/star1in.m3u8?md5=HdD8vDD41jOpOVQE19AwjQ&expires=1663947858|referer=https://castfree.me/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS HINDI" tvg-logo="" group-title="LIVE EVENTS ",STAR SPORTS HINDI
+https://s2.lucascd.com:8080/hls/starhindi.m3u8?md5=llysebgQuUM2E23vBU5JeA&expires=1663947917|referer=https://castfree.me/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS CRICKET" tvg-logo="" group-title="LIVE EVENTS ",SUPER SPORTS CRICKET
+https://s10.merizaat.com:8080/hls/supercricket.m3u8?md5=xZxTx95dYcFxTecOl3jQjg&expires=1663948150|referer=https://castfree.me/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USTAV GOLD" tvg-logo="" group-title="LIVE EVENTS ",USTAV GOLD
+https://s5.lucascd.com:8080/hls/hdchnl18.m3u8?md5=a5vjI2tmq0p7QzPkKPCutg&expires=1663948016|referer=https://castfree.me/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WILLOW CRICKET HD " tvg-logo="" group-title="LIVE EVENTS ",WILLOW CRICKET HD 
+https://s3.yourtehzeeb.com:786/hls/willowusa.m3u8?md5=o21uSZzKEQQk2oIdQahwxQ&expires=1663948189|referer=https://castfree.me/
